@@ -1,0 +1,8 @@
+venv
+dist
+build
+__pycache__
+GERADOR.py
+dist.zip
+dados.txt
+dados
